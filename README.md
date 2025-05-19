@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @juanalegret
-- 👀 I’m interested in Higher Education interoperability and eIDAS 2.0
-- 💞️ I’m looking to collaborate on HE Interoperability
-- 📫 How to reach me juan.alegret@academicportals.com
+- 👀 I’m interested in Self Sovereign Identity eIDAS 2.0
+- 💞️ I’m looking to collaborate on SSI Projects
+- 📫 How to reach me alegret@procivis.ch
 
 
 <!---
